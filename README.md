@@ -1,10 +1,10 @@
-# 🤖 Helpie ChatBot
+# 🤖 Helpy ChatBot
 
-**Helpie ChatBot** is an AI-powered conversational assistant built using [Google's Gemini 2.5 Flash model](https://ai.google.dev/) and [Streamlit](https://streamlit.io/). Ask anything — it’s here to help!
+**Helpy ChatBot** is an AI-powered conversational assistant built using [Google's Gemini 2.5 Flash model](https://ai.google.dev/) and [Streamlit](https://streamlit.io/). Ask anything — it’s here to help!
 
 ---
-## 💡 Try Helpie Chatbot
-[![Launch Helpie ChatBot](https://img.shields.io/badge/🚀%20Launch%20Helpie%20ChatBot%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://chanaka-chatbot.streamlit.app/)
+## 💡 Try Helpy Chatbot
+[![Launch Helpy ChatBot](https://img.shields.io/badge/🚀%20Launch%20Helpy%20ChatBot%20App-Streamlit-red?style=for-the-badge&logo=streamlit)](https://chanaka-chatbot.streamlit.app/)
 
 ---
 ## 🚀 Features
@@ -20,7 +20,7 @@
 ## 📁 Project Structure
 
 ```
-helpie-chatbot/
+helpy-chatbot/
 ├── .env
 ├── .gitignore
 ├── app.py

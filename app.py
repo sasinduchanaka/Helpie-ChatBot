@@ -17,7 +17,7 @@ st.set_page_config(page_title="Helpie ChatBot", layout="wide")
 # Sidebar
 with st.sidebar:
     #st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/368px-Google_2015_logo.svg.png", width=100)
-    st.markdown("## 🤖 Helpie ChatBot")
+    st.markdown("## 🤖 Helpy ChatBot")
     st.caption("Powered by **Gemini 2.5 Flash**")
     st.markdown("---")
     if st.button("🔄 Reset Chat"):
@@ -47,7 +47,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="big-title">💬 Helpie ChatBot</div>', unsafe_allow_html=True)
+st.markdown('<div class="big-title">💬 Helpy ChatBot</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Ask me anything — I’m here to help!</div>', unsafe_allow_html=True)
 st.markdown("---")
 

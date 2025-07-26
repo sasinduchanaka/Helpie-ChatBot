@@ -12,7 +12,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-2.5-flash")
 
 # Set page settings
-st.set_page_config(page_title="Helpie ChatBot", layout="wide")
+st.set_page_config(page_title="Helpy ChatBot", layout="wide")
 
 # Sidebar
 with st.sidebar:
